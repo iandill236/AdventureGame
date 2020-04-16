@@ -14,7 +14,7 @@ namespace AdventureGame
     public partial class Form1 : Form
     {
         // tracks what part of the game the user is at
-        int scene = 0;
+        int scene = 40;
 
         //Random Number Generator
         Random randGen = new Random();
