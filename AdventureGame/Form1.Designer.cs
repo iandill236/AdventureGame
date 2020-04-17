@@ -31,12 +31,12 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pictureLabel = new System.Windows.Forms.Label();
             this.displayLabel = new System.Windows.Forms.Label();
-            this.blueButton = new System.Windows.Forms.Button();
-            this.redButton = new System.Windows.Forms.Button();
-            this.greenButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.blueButton = new System.Windows.Forms.Button();
+            this.redButton = new System.Windows.Forms.Button();
+            this.greenButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // pictureLabel
@@ -58,6 +58,36 @@
             this.displayLabel.TabIndex = 4;
             this.displayLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.displayLabel.Click += new System.EventHandler(this.displayLabel_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.Lime;
+            this.label1.Location = new System.Drawing.Point(71, 615);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(14, 13);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "A";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Red;
+            this.label2.Location = new System.Drawing.Point(549, 615);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(14, 13);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "S";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.ForeColor = System.Drawing.Color.Aqua;
+            this.label3.Location = new System.Drawing.Point(1019, 615);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(15, 13);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "D";
             // 
             // blueButton
             // 
@@ -91,37 +121,6 @@
             this.greenButton.TabIndex = 1;
             this.greenButton.UseVisualStyleBackColor = true;
             this.greenButton.Click += new System.EventHandler(this.greenButton_Click);
-            this.greenButton.ControlAdded += new System.Windows.Forms.ControlEventHandler(this.greenButton_ControlAdded);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.Lime;
-            this.label1.Location = new System.Drawing.Point(71, 615);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(14, 13);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "A";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.Red;
-            this.label2.Location = new System.Drawing.Point(549, 615);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(14, 13);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "S";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.Color.Aqua;
-            this.label3.Location = new System.Drawing.Point(1019, 615);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(15, 13);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "D";
             // 
             // Form1
             // 

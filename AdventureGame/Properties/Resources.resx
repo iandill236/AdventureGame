@@ -118,13 +118,142 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Alien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\green-alien-600w-109781606.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bluecircleimg_6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bluecircleimg(6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_01742.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_01750.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_00069.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_01752.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_01743.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boss6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iss_4818_01748.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BossCar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\good-parking.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BossCar2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parallelparking.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BossOnPhone1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5df3ccf9fd9db2090a20d6fa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BossShogun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\traditional-japanese-samurai-shogun-armor-600w-784599775.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfusedThomas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CoworkersBow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gettyimages-93191971-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CoworkersOutside" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MW-CU299_pfappl_20140917133200_ZQ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Crown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d8547734a1a86c2cae8f41837524f13c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Failure1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gettyimages-1089522680-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="greenButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1200px-ski_trail_rating_symbol(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Jump" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gettyimages-169945122-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ParkingLot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Parking-Lot-of-deas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Phone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41wUpiuAbYL._AC_SX425_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="red_circle_small__svg_2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\red_circle-small--svg(2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SamuraiSword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\japanese_sword_sori.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StunnedThomas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stunned-man-surprise-600w-1075929623.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thomas Yelling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dammit-handsome-young-bearded-man-screaming-hands-up-38513504.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasAbductions" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4094.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasAlley" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-477471378-640x640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasAtDesk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_127220312-stock-photo-handsome-young-man-working-on.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasCar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\man-getting-into-his-car_23-2147841940.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasEntering" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Businessman Entering Corporate Building preview image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasFrozen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cryonics-on-humans.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasKeying" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\keyed-car.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasLeaving" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_121695754-stock-video-tense-young-black-man-leaving.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasMad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\index.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasOnPhone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disappointed-man-talking-on-phone-260nw-528333745.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasOnStage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\preview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasSleeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\casual-man-sleeping-on-desk-600w-1058422085.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasStreet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4460747081.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasSweating" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sweaty-man.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThomasSword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-strong-man-sword-600w-303297539.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UFO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\spaceship-blue-interior-view-on-260nw-617730641.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wakingup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_156069268-stock-video-man-waking-up-in-bed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WakingupAgain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_157698412-stock-video-man-waking-up-in-bed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinLove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house-farmland-farm-field-countryside-sunset-twilight-dusk-s.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YouLose" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\you-lose-red-stamp-text-600w-303609539.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YouWin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\big-win-jackpot-you-text-260nw-1448844158.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

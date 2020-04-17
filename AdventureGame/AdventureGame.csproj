@@ -59,18 +59,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -124,6 +124,147 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\bluecircleimg%286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_156069268-stock-video-man-waking-up-in-bed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-having-fun-jumping-on-260nw-1301933245.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jump.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-169945122-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\What-Debt-Collectors-Wont-Tell-You.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41wUpiuAbYL._AC_SX425_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_157698412-stock-video-man-waking-up-in-bed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5df3ccf9fd9db2090a20d6fa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_01742.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_01750.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disappointed-man-talking-on-phone-260nw-528333745.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_00069.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-group-business-people-outside-their-company-small-group-business-people-outside-their-company-holding-hands-raised-101665052.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MW-CU299_pfappl_20140917133200_ZQ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-1089522680-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_01752.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dammit-handsome-young-bearded-man-screaming-hands-up-38513504.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_01743.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-farmland-farm-field-countryside-sunset-twilight-dusk-s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stunned-man-surprise-600w-1075929623.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-getting-into-his-car_23-2147841940.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parking-Lot-of-deas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Businessman Entering Corporate Building preview image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_127220312-stock-photo-handsome-young-man-working-on.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4460747081.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sweaty-man.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_121695754-stock-video-tense-young-black-man-leaving.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casual-man-sleeping-on-desk-600w-1058422085.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\good-parking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyed-car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iss_4818_01748.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-477471378-640x640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4094.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceship-blue-interior-view-on-260nw-617730641.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-alien-600w-109781606.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cryonics-on-humans.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parallelparking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\traditional-japanese-samurai-shogun-armor-600w-784599775.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\japanese_sword_sori.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-strong-man-sword-600w-303297539.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-93191971-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\big-win-jackpot-you-text-260nw-1448844158.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you-lose-red-stamp-text-600w-303609539.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d8547734a1a86c2cae8f41837524f13c.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
